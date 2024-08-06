@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skibidi Bot", "Skibidi Bot\Skibidi Bot.csproj", "{32A8B26C-3494-4E97-A923-8C0E61B0FB10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32A8B26C-3494-4E97-A923-8C0E61B0FB10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32A8B26C-3494-4E97-A923-8C0E61B0FB10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32A8B26C-3494-4E97-A923-8C0E61B0FB10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32A8B26C-3494-4E97-A923-8C0E61B0FB10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEFD47B9-9E25-4BF8-889E-14B9EF75A73B}
+	EndGlobalSection
+EndGlobal
